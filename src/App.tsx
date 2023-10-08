@@ -6,7 +6,7 @@ import Products from './components/Products/Products'
 
 function App() {
 
-  const [value, setValue] = useState(0);
+  const [value, setValue] = useState(0); 
 
   return (
     <>

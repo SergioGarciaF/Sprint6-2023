@@ -11,7 +11,7 @@ const Products: React.FC = () => {
         setSeoChecked(e.target.checked);
     };
 
-    const handleAdsChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const handleAdsChange = (e: React.ChangeEvent<HTMLInputElement>) => { 
         setAdsChecked(e.target.checked);
     };
 
