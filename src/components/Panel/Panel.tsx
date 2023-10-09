@@ -50,7 +50,7 @@ const Panel: React.FC<PanelProps> = ({
       </StyledLabel>
       <StyledLabel htmlFor="">
         <p className="text-neutral-content">Número de lenguajes</p>
-        <button className="text-neutral-content m-2" onClick={handleMinusLang}>
+        <button className="text-neutral-content m-2" onClick={handleMinusLang}> 
           -
         </button>
         <input
