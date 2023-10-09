@@ -4,5 +4,6 @@ const StyledContainer = styled.div`
     display: flex;
     justify-content: center;`
 
+export default StyledContainer;
 
-export default StyledContainer
+
